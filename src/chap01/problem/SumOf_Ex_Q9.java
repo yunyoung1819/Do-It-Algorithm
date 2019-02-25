@@ -5,7 +5,7 @@ import java.util.Scanner;
  * 연습문제 Q9. 정수 a, b를 포함하여 그 사이의 모든 정수의 합을 구하여
  * 반환하는 아래 메서드를 작성하세요.
  */
-class SumOf_Ex_09 {
+class SumOf_Ex_Q9 {
     static int sumof(int a, int b) {
         int sum = 0;
         if(a <= b){

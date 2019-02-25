@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 프로그램을 작성하세요.
  *
  */
-public class SumFor_Ex_07 {
+public class SumFor_Ex_Q7 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 
