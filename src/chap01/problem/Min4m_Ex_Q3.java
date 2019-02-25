@@ -5,7 +5,7 @@ package chap01.problem;
  *
  * @author : young
  */
-public class Min4m {
+public class Min4m_Ex_Q3 {
     static int min4(int a, int b, int c, int d) {
         int min = a; // 최솟값
         if(min > b) min = b;

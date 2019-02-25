@@ -5,7 +5,7 @@ package chap01.problem;
  *
  * 작성자 : young
  */
-public class Min3m {
+public class Min3m_Ex_Q2 {
 
     static int min3(int a, int b, int c) {
         int min = a;

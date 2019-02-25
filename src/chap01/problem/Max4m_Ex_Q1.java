@@ -5,7 +5,7 @@ package chap01.problem;
  *
  * 작성자 : young
  */
-public class Max4m {
+public class Max4m_Ex_Q1 {
 
     static int max4(int a, int b, int c, int d) {
         int max = a;
