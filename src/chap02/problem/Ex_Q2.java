@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 연습문제 Q2.오른쪽처럼 배열 요소를 역순으로 정렬하는 과정을
  * 하나하나 나타내는 프로그램을 작성하세요.
  */
-public class Ex_02 {
+public class Ex_Q2 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 
